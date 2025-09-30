@@ -1,0 +1,44 @@
+{
+  "full_name": "ООО \"Дентология\"",
+  "UNP": "192714365",
+  "address": {
+    "full": "220101, Республика Беларусь, г. Минск, ул. Якубова, 10",
+    "city": "Минск",
+    "street": "ул. Якубова, 10"
+  },
+  "phones": [
+    "+375 17 304 09 09",
+    "+375 29 514 09 09", 
+    "+375 44 514 09 09"
+  ],
+  "emails": [
+    "info@dentologia.by"
+  ],
+  "years_in_business": 8,
+  "established_date": "2016-10-05",
+  "website": "https://dentologia.by",
+  "services": [
+    "Терапевтическая стоматология",
+    "Хирургическая стоматология", 
+    "Ортопедическая стоматология",
+    "Ортодонтия",
+    "Детская стоматология",
+    "Эстетическая стоматология",
+    "Профилактическая стоматология"
+  ],
+  "verified_sources": [
+    "https://kartoteka.by/unp-192714365",
+    "https://checko.ru/by/company/dentologiya-192714365",
+    "https://2gis.by/minsk/firm/70000001042289529",
+    "https://medelement.com/companies/clinics/881983221627375380"
+  ],
+  "schedule": {
+    "monday": "09:00-20:00",
+    "tuesday": "09:00-20:00", 
+    "wednesday": "09:00-20:00",
+    "thursday": "09:00-20:00",
+    "friday": "09:00-20:00",
+    "saturday": "09:00-17:00",
+    "sunday": "Выходной"
+  }
+}
